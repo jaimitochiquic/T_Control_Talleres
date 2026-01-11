@@ -1,0 +1,17 @@
+en el bash here:
+------------------------------
+      SOLO LA PRIMERA VEZ
+git init
+git remote add origin ENLACE_REPOSITORIO.git
+git add .
+git commit -m "actualizado"
+git branch -M main
+git push -u origin main
+
+--------------------
+después de crear ya el repositorio poner
+-------------------
+
+git add .
+git commit -m "actualizado"
+git push -u origin main
